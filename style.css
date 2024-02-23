@@ -1,1 +1,170 @@
-# First-project
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.template{
+	width: 960px;
+	margin: 0 auto;
+}
+/*--------- Start Row1--------*/
+.row1{
+	height: 500px;
+	width: 100%;
+	background: #FECE22;
+}
+.midpart{
+	width: 750px;
+	margin: 0 auto;
+}
+.leftbar{
+	width: 36%;
+    float: left;
+    margin-top: 151px;
+    margin-left: 103px;
+}
+.leftbar h5{
+	padding-bottom: 6px;
+}
+.leftbar h2{}
+.leftbar button{
+	padding: 15px;
+	border-radius: 30px;
+	margin-top: 20px;
+	border: none;
+}
+.rightbar{}
+.rightbar img{
+	height: 522px;
+    margin-top: -12px;
+    margin-left: -119px;
+    transform: rotate(28deg);
+}
+
+/*--------- Start Row2--------*/
+
+.row2{
+	height: 250px;
+	background: #fff;
+	width: 100%;
+}
+
+.abot{
+	color: #132;
+}
+.abot h3{
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+.abot p{
+	text-indent: 20px;
+}
+
+/*--------- Start Row3--------*/
+
+.row3{
+	height: 80px;
+	background: #FECE22;
+	width: 100%;
+}
+.row3 h3{
+	text-align: center;
+	padding-top: 30px;
+	color: white;
+	padding-bottom: 30px;
+}
+
+/*--------- Start Row4--------*/
+
+ .row4{
+ 	height: 600px;
+ 	width: 100%;
+ 	background: #fff;
+ }
+ .midpart{}
+ .twopart{}
+ .partall_top{
+ 	padding-top: 40px;
+ }
+ .partall_top h2{
+ 	padding-bottom: 30px;
+ }
+ .part{
+ 	width: 225px;
+ 	height: 250px;
+ 	float: left;
+ 	margin-left: 25px;
+ 	position: relative;
+ }
+ .lm{
+ 	margin-left: 0px;
+ }
+ .part img{
+ 	width: 100%;
+ 	height: 200px;
+ }
+ .part button{
+ 	position: absolute;
+    left: 25px;
+    top: 20px;
+    padding: 7px;
+    border-radius: 20px;
+    border: none;
+    background: #FDC66D;
+ }
+ .part_bottom{
+ 	background: #FDC66D;
+ 	padding: 10px 0px 10px 10px;
+ 	margin-top: -4px;
+ }
+ .part_bottom h4{}
+ .part_bottom p{}
+ .partall_bottom{
+ 	
+ }
+ .partall_bottom h3{
+ 	
+ }
+ .partall_bottom_top{}
+ .partall_bottom_top_part{
+ 	background: #FED436;
+ 	width: 150px;
+ 	height: 80px;
+ 	padding: 10px;
+ 	float: left;
+ 	margin-left: 20px;
+ 	margin-top: 20px;
+
+ }
+ .partall_bottom_top_part:first-child{
+ 	margin-left: 0px;
+ }
+ .partall_bottom_top_part img{
+ 	height: 100px;
+    margin-left: 25px;
+    margin-top: -10px;
+ }
+ .partall_bottom_bottom{}
+ .partall_bottom_bottom_part{
+ 	background: #FED436;
+ 	width: 150px;
+ 	height: 80px;
+ 	padding: 10px;
+ 	float: left;
+ 	margin-left: 20px;
+ 	margin-top: 25px;
+
+ }
+ .partall_bottom_bottom_part:first-child{
+ 	margin-left: 0px;
+ }
+ .partall_bottom_bottom_part img{
+ 	height: 100px;
+    margin-left: 25px;
+    margin-top: -10px;
+ }
+ .{}
+ .{}
+ .{}
+ .{}
+ .{}
